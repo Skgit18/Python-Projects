@@ -4,7 +4,7 @@ This is a collection of mini-projects showcasing my skills in Python. They focus
 
 ------------
 
-Data Analysis Software
+## Software Used
 
 1. Python - version 3.12.6
 2. JupyterLab - version 4.2.5
